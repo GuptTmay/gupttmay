@@ -1,110 +1,44 @@
 # Hi, I'm Tanmay Gupta 👋
 
-Full Stack Developer focused on building secure, scalable, and user-friendly web applications.
+**Full Stack Developer** — building secure, scalable, and user-friendly web applications.
 
-- 🌐 Portfolio: tanmaygupta.tech
-- 💼 LinkedIn: linkedin.com/in/tanmaygupta
-- 💻 GitHub: github.com/GuptTmay
-- 📧 Email: tanmaygupta.tech@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanmay-gupta-a3251725a/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/TanmayForCoding)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tanmaygupta.tech@gmail.com)
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I’m a Full Stack Developer with strong fundamentals in web development and backend systems.  
-I enjoy building performant applications, solving DSA problems, and working on real-world projects involving APIs, authentication, and scalable architectures.
+First year MCA student with hands-on internship experience in backend development. I've worked on real-world projects involving REST APIs, authentication, and databases — and can hold my own on the frontend too. Currently sharpening my DSA skills and building full stack projects to bridge the gap between learning and production.
 
-- 💡 Interested in Full Stack Development
-- 🔒 Focused on security, performance, and clean UI
+- 💡 Focused on Full Stack Development — clean UI, security, and performance
+- 📚 Solved **500+ DSA problems** across multiple platforms
 - 🐧 Linux user
-- 📚 Solved 300+ DSA problems
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-- Java
-- TypeScript
-- JavaScript
-- Python
-
-### Frontend
-- React.js
-- Redux
-- Tailwind CSS
-- ShadCN UI
-
-### Backend
-- Node.js
-- Express.js
-- FastAPI
-
-### Database
-- PostgreSQL
-- SQL
-
-### Tools
-- Git
-- Docker
-- Linux
-
----
-
-## 💼 Experience
-
-### Full Stack Developer Intern — Mynadezhda Consultancy Services Private Limited
-**Sept 2025 – Feb 2026**
-
-- Designed and deployed scalable REST APIs using FastAPI and PostgreSQL
-- Integrated third-party services like WhatsApp, Telegram, Google Shopping, Google Drive, Cloudinary, and Push Notifications
-- Implemented Relationship-Based Access Control (ReBAC) using OpenFGA
-- Built OAuth authentication flows for Google, Facebook, Yandex, and VK
-
----
-
-## 📌 Projects
-
-### 📝 The Venture — Full Stack Blogging Platform
-Tech Stack: TypeScript, Node.js, PostgreSQL, Redux
-
-- Built a blogging platform with authentication and CRUD functionality
-- Added comments, likes, and AI-powered content generation
-- Integrated Google Gemini API with Markdown support
-- Designed responsive UI using Tailwind CSS and ShadCN
-
----
-
-### 📊 DashForge — Interactive Analytics Dashboard
-Tech Stack: TypeScript, React, Recharts, Tailwind CSS
-
-- Developed interactive charts and dashboards
-- Built responsive UI for multiple screen sizes
-- Focused on clean data visualization and usability
-
----
-
-## 🏆 Achievements
-
-- Solved 300+ DSA problems across LeetCode, Codeforces, and GeeksforGeeks
-- 🥇 First Place — Code Festia Hackathon 2026
-
----
-
-## 🎓 Education
-
-### Master of Computer Applications (MCA)
-ABES College, Ghaziabad  
-2025 – 2027
-
-### Bachelor of Computer Applications (BCA)
-ITS College, Mohan Nagar  
-2022 – 2025
-
----
-
-## 📈 GitHub Stats
-
-https://github-readme-stats.vercel.app/api?username=GuptTmay&show_icons=true
-
-https://github-readme-streak-stats.herokuapp.com/?user=GuptTmay
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+#### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
