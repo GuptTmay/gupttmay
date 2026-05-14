@@ -10,7 +10,7 @@
 
 ## About Me
 
-First year MCA student with hands-on internship experience in backend development. I've worked on real-world projects involving REST APIs, authentication, and databases — and can hold my own on the frontend too. Currently sharpening my DSA skills and building full stack projects to bridge the gap between learning and production.
+First year MCA student with hands-on **internship experience** in backend development. I've worked on real-world projects involving REST APIs, authentication, and databases — and can hold my own on the frontend too. Currently sharpening my DSA skills and building full stack projects to bridge the gap between learning and production.
 
 - 💡 Focused on Full Stack Development — clean UI, security, and performance
 - 📚 Solved **500+ DSA problems** across multiple platforms
