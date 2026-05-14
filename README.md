@@ -105,9 +105,6 @@ ITS College, Mohan Nagar
 
 ## 📈 GitHub Stats
 
-```txt
-Add these after creating your README:
-
 https://github-readme-stats.vercel.app/api?username=GuptTmay&show_icons=true
 
 https://github-readme-streak-stats.herokuapp.com/?user=GuptTmay
